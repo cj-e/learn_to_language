@@ -1,2 +1,3 @@
 # learn_to_language
-learn c++,java,etc
+c++,java 배우기
+*c++교제 이현창 저 뇌를 자극하는 c++
